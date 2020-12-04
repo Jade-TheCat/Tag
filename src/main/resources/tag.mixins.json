@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "me.jadethecat.tag.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ServerTagManagerHolderMixin",
+    "TagManagerLoaderMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

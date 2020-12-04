@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+      "minecraft:protection",
+      "minecraft:fire_protection",
+      "minecraft:feather_falling",
+      "minecraft:blast_protection",
+      "minecraft:projectile_protection",
+      "minecraft:respiration",
+      "minecraft:aqua_affinity",
+      "minecraft:thorns",
+      "minecraft:depth_strider",
+      "minecraft:frost_walker",
+      "minecraft:binding_curse",
+      "minecraft:soul_speed"
+  ]
+}
